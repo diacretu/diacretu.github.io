@@ -1251,6 +1251,9 @@ a {
 @media (min-width: 1500px) {
   .cid-sjgzDRMIIh .container {
     max-width: 1400px;
+    flex-direction: row;
+    text-align: center;
+    align-items: center;
   }
 }
 .cid-sjgzDRMIIh .mbr-iconfont {
